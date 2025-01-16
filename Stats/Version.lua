@@ -1,1 +1,1 @@
-return 'Beta v0.5'
+return 'Beta v0.6'
